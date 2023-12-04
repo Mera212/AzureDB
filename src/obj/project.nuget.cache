@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "rh7bONFFDBuUuRvwJ4vXWK23yEMzS/69wNEx+Hm7c4cCeH6DP2vRH/PD2lgF5UrOIuld0m7zmWjyDo1SErNP4A==",
+  "success": true,
+  "projectFilePath": "/Users/s2300305/Documents/AzureDB/src/src.csproj",
+  "expectedPackageFiles": [
+    "/Users/s2300305/.nuget/packages/microsoft.aspnetcore.openapi/7.0.10/microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
+    "/Users/s2300305/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "/Users/s2300305/.nuget/packages/microsoft.openapi/1.4.3/microsoft.openapi.1.4.3.nupkg.sha512",
+    "/Users/s2300305/.nuget/packages/swashbuckle.aspnetcore/6.5.0/swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "/Users/s2300305/.nuget/packages/swashbuckle.aspnetcore.swagger/6.5.0/swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "/Users/s2300305/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.5.0/swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "/Users/s2300305/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.5.0/swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
